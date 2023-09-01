@@ -161,26 +161,26 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Matt's exceptional skills and dedication consistently exceed expectations, making him an invaluable asset to any project.",
     name: "Dom",
     designation: "CFO",
-    company: "Acme Co",
+    company: "Domdamin",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Matt's dedication and expertise truly stand out, making him an outstanding contributor to any endeavor.",
     name: "Toto",
     designation: "COO",
-    company: "DEF Corp",
+    company: "Australia's Finest",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Matt's contributions consistently shine, reflecting his unwavering commitment and skill in every project",
     name: "Jay",
     designation: "CTO",
-    company: "456 Enterprises",
+    company: "Lata Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
